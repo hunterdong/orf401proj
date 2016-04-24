@@ -1,0 +1,39 @@
+{
+  "name": "artvenue",
+  "version": "3.4.4",
+  "authors": [
+    "Abhimanyu Sharma <abhimanyusharma003@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "autosize": "~3.0.9",
+    "blueimp-load-image": "~2.6.0",
+    "bootstrap-datepicker": "~1.6.0",
+    "bootstrap-sass": "~3.3.6",
+    "canvasResize": "git://github.com/abhimanyusharma003/canvasResize",
+    "color-thief": "*",
+    "datatables": "~1.10.9",
+    "fontawesome": "~4.5.0",
+    "footable": "~2.0.3",
+    "gmaps": "~0.4.19",
+    "jquery": "~2.2.3",
+    "jquery-file-upload": "~9.11.2",
+    "jquery-resize-image-to-parent": "git://github.com/levymetal/jquery-resize-image-to-parent.git",
+    "jquery-timeago": "~1.4.1",
+    "jquery-ui": "~1.11.4",
+    "jquery.lazyload": "~1.9.5",
+    "jt.timepicker": "~1.8.1",
+    "lightgallery": "~1.2.0",
+    "morris.js": "~0.5.1",
+    "raphael": "~2.2.0",
+    "select2": "~4.0.0",
+    "select2-bootstrap-theme": "~0.1.0-beta.4"
+  }
+}

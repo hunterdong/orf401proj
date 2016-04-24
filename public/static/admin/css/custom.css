@@ -1,0 +1,8 @@
+.flash_message{
+	top:0;
+	width:100%;
+	position:absolute;
+	z-index:10000;
+	border:none;
+	border-radius:0
+}

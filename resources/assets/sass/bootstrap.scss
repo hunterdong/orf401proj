@@ -1,0 +1,11 @@
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$link-color: #444;
+$navbar-inverse-brand-color: #fff !default;
+$border-radius-base: 0px;
+$border-radius-large: 0px;
+$border-radius-small: 0px;
+$grid-float-breakpoint: 1200px;
+$icon-font-path: "../fonts/";
+$navbar-margin-bottom: 10px !default;
+
+@import "public/static/plugins/bootstrap-sass/assets/stylesheets/bootstrap";
